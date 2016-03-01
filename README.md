@@ -14,5 +14,5 @@ This project was/is being made for education purposes, and is being done as a gr
 See the [wiki](https://github.com/willyb321/SDD-GameShow-Wiki/wiki) for that part of the project
 ***
 See the website(not done yet) for the trivia/quiz.
-***
+
 The website will be hosted with github pages, to avoid hosting costs.
