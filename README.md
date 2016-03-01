@@ -7,3 +7,10 @@ Members:
 - Ben Newton
 - Zac Williams
 - Oscar Rainford
+
+***
+This project was/is being made for education purposes, and is being done as a group project.
+***
+See the [wiki](https://github.com/willyb321/SDD-GameShow-Wiki/wiki) for that part of the project
+
+See the website(not done yet) for the trivia/quiz
