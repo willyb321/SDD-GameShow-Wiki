@@ -1,4 +1,7 @@
-![[SDD-GameShow-Wiki/SDD.logo.png]]
+<p align="center">
+  <img src="SDD-GameShow-Wiki/SDD.logo.png" />
+</p>
+
 
 # SDD GameShow and Wiki
 A place for the gameshow and a wiki
