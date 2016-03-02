@@ -1,4 +1,4 @@
-![Logo](willyb321.github.com/SDD-GameShow-Wiki/sdd%20logo.png)
+![Logo](willyb321.github.com/SDD-GameShow-Wiki/sdd.logo.png)
 
 # SDD GameShow and Wiki
 A place for the gameshow and a wiki
