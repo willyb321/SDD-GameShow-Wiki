@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="SDD-GameShow-Wiki/SDD.logo.png" />
-</p>
+![SDD.logo](SDD.logo.png)
 
 
 # SDD GameShow and Wiki
