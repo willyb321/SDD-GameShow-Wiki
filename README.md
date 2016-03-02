@@ -1,8 +1,6 @@
-![SDD.logo](SDD.logo.png)
-
-
 # SDD GameShow and Wiki
 A place for the gameshow and a wiki
+![SDD.logo](SDD.logo.png)
 ***
 Members:
 - William Blythe
