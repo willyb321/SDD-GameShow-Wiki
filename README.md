@@ -18,4 +18,4 @@ See the [website](http://sddgentech.xyz) for the trivia/quiz.
 
 The website will be hosted with github pages, to avoid hosting costs.  
 ***
-[shameless plug for my youtube channel](http://www.youtube.com/tehsuperwilly)
+
