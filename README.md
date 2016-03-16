@@ -18,5 +18,4 @@ See the [website](http://willyb321.github.io/SDD-GameShow-Wiki/) for the trivia/
 
 The website will be hosted with github pages, to avoid hosting costs.  
 ***
-[shameless plug for my youtube channel](http://www.youtube.com/tehsuperwilly)
 
