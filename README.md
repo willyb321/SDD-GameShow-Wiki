@@ -7,7 +7,6 @@ Members:
 - Austin Brown
 - Ben Newton
 - Zac Williams
-- Oscar Rainford
 
 ***
 This project was/is being made for education purposes, and is being done as a group project.
